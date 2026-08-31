@@ -1,6 +1,3 @@
-## Ticket
-DEV-XXXX
-
 ## What changed
 <!-- Short description of the change and why -->
 
